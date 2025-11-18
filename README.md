@@ -2,7 +2,8 @@
 
 MasterDSA is a **full-stack web application** designed to simplify learning **Data Structures and Algorithms**.  
 It allows users to purchase courses, take tests, and visualize algorithms interactively — all in one platform.
-
+![Courses Page](./courses.png)
+![Algorithm Visualizer](./visualizer.png)
 ---
 
 ## Tech Stack
@@ -49,5 +50,7 @@ Once both servers are running, open your browser at:
 ```bash
 http://localhost:3000
 ```
+
+
 
 
