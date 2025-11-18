@@ -1,19 +1,33 @@
-# Master DSA 
+#  MasterDSA
 
--> To run our project first clone our project using powershell or gitbash 
+MasterDSA is a **full-stack web application** designed to simplify learning **Data Structures and Algorithms**.  
+It allows users to purchase courses, take tests, and visualize algorithms interactively — all in one platform.
 
-  git clone 
+---
 
--> Next change the directory to frontend and install node modules
-  
-  cd frontend
-  
-  npm i https://github.com/shivpranay5/wbd-final.git
+## Tech Stack
 
--> Now change the directory to backend and install the node modules and run index.js file 
-  
-  cd backend
+**Frontend:** React, HTML, CSS, JavaScript  
+**Backend:** Node.js, Express, MongoDB  
+**Tools & Infra:** Docker, Redis, JWT, Bcrypt, Swagger, Azure, Render
 
-  npm i
-  
-nodemon index.js
+---
+
+##  Features
+
+- 🔐 Secure authentication using **JWT** and **Bcrypt** for password hashing  
+-    Course purchase and test participation system  
+- ⚡ **Redis caching** for optimized performance  
+- 🐳 **Dockerized deployment** for consistency across environments  
+- 📘 REST API documentation with **Swagger**  
+- ✅ Unit testing using **Mocha** and **Chai** with **100% coverage**  
+- ☁️ Frontend deployed on **Render**, backend hosted on **Azure**
+
+---
+
+## 🧩 Setup Instructions
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shivpranay5/wbd-final.git
