@@ -31,3 +31,23 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/shivpranay5/wbd-final.git
+```
+
+Frontend Setup
+```bash
+cd frontend
+npm install
+```
+Backend Setup
+```bash
+cd backend
+npm install
+nodemon index.js
+```
+
+Once both servers are running, open your browser at:
+```bash
+http://localhost:3000
+```
+
+
