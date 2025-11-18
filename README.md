@@ -1,4 +1,4 @@
-##  MasterDSA
+# MasterDSA
 
 MasterDSA is a **full-stack web application** designed to simplify learning **Data Structures and Algorithms**.  
 It allows users to purchase courses, take tests, and visualize algorithms interactively — all in one platform.
