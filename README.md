@@ -8,7 +8,7 @@
   
   cd frontend
   
-  npm i
+  npm i https://github.com/shivpranay5/wbd-final.git
 
 -> Now change the directory to backend and install the node modules and run index.js file 
   
